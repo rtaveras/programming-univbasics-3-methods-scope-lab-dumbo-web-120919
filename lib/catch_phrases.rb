@@ -13,3 +13,7 @@ def link
   puts our_Hero
 end
 
+def any_phrase
+  fox = "Do A Barrel Roll!\n"
+  puts fox
+end
