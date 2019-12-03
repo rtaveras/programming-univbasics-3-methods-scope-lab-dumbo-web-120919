@@ -13,7 +13,7 @@ def link
   puts our_Hero
 end
 
-def any_phrase
-  fox = "Do A Barrel Roll!\n"
+def any_phrase (barrel_roll)
+  fox = "#{barrel_roll}\n"
   puts fox
 end
